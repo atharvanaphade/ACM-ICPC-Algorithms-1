@@ -7,7 +7,7 @@
 struct Node 
 { 
     int data; 
-    struct Node *next; 
+    struct Node *next; //pointer to new next node datatype
 }; 
   
 /* Given a reference (pointer to pointer) to the head of a list 
